@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9D8Ot+GoJ6nZwy19/t4BXoWX6F/FKaOogxlIQdhGzpBQw+VCQ0OV0LD1kQHAZgTC3eEq0FzQc5/vTBzgYIJhw==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab07-20230508HTTP-API\\task01NasaAPI\\NasaApi\\NasaApi\\NasaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TarasN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
